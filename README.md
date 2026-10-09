@@ -10,7 +10,7 @@ and I draw hyperrealistic pencil portraits.
 | Project | What it does | Link |
 |---|---|---|
 | Sri Sivamurugan Crackers | Customer ordering + owner dashboard | [Live](https://duraiartist-dev.github.io/sivamurugan-crackers/) |
-| Preethi Snacks | Snack ordering and management app | [Live](PUT-LINK-HERE) |
+| Preethi Snacks | Snack ordering and management app | [Live](https://duraiartist-dev.github.io/preethi-snacks/) |
 | Durai Arts | My pencil art portfolio | [Live](PUT-LINK-HERE) |
 
 ## 🧰 Skills
