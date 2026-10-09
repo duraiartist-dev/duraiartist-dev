@@ -12,7 +12,7 @@ and I draw hyperrealistic pencil portraits.
 | Sneha's Makeover | Bridal makeup booking & owner dashboard | [Live](https://duraiartist-dev.github.io/snehas-makeover/) |
 | Sri Sivamurugan Crackers | Customer ordering + owner dashboard | [Live](https://duraiartist-dev.github.io/sivamurugan-crackers/) |
 | Preethi Snacks | Snack ordering and management app | [Live](https://duraiartist-dev.github.io/preethi-snacks/) |
-| Durai Arts | My pencil art portfolio | [Live](PUT-LINK-HERE) |
+| Durai Arts | My pencil art portfolio | [Live]( https://duraiartist-dev.github.io/DURAI_ARTS/) |
 
 ## 🧰 Skills
 
