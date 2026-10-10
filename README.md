@@ -12,7 +12,7 @@
 
 <br />
 
-### 👋 Hi, I'm Durai
+👋 Hi, I'm Durai
 
 I build **websites and ordering systems for local businesses** in Madurai and across Tamil Nadu.
 
@@ -43,34 +43,34 @@ I communicate in **Tamil and English**, so you can explain your business in the 
 
 <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 
-## 🌐 Live Projects
+ 🌐 Live Projects
 
 Real websites built for real local businesses. Open them and try yourself.
 
 </div>
 
-### 💄 Sneha's Makeover
+💄 Sneha's Makeover
 **Bridal makeup booking website.** Service showcase, appointment booking and owner dashboard.
 
 ![Booking](https://img.shields.io/badge/Booking%20flow-ff6b9d?style=flat-square) ![Dashboard](https://img.shields.io/badge/Owner%20dashboard-2dd4bf?style=flat-square) ![Mobile](https://img.shields.io/badge/Mobile%20first-a78bfa?style=flat-square)
 
 👉 [**View Live Website**](https://duraiartist-dev.github.io/snehas-makeover/)
 
-### 🎆 Sri Sivamurugan Crackers
+ 🎆 Sri Sivamurugan Crackers
 **Product catalogue and ordering website.** Customers browse the full catalogue and place orders, and the owner manages them.
 
 ![Catalogue](https://img.shields.io/badge/Product%20catalogue-f59e0b?style=flat-square) ![Orders](https://img.shields.io/badge/Customer%20orders-ef4444?style=flat-square) ![Dashboard](https://img.shields.io/badge/Owner%20dashboard-2dd4bf?style=flat-square)
 
 👉 [**View Live Website**](https://duraiartist-dev.github.io/sivamurugan-crackers/)
 
-### 🍿 Preethi Snacks
+ 🍿 Preethi Snacks
 **Snack business ordering website.** Product browsing, ordering and business management features.
 
 ![Display](https://img.shields.io/badge/Product%20display-22c55e?style=flat-square) ![Ordering](https://img.shields.io/badge/Ordering%20workflow-3b82f6?style=flat-square) ![Management](https://img.shields.io/badge/Management-a78bfa?style=flat-square)
 
 👉 [**View Live Website**](https://duraiartist-dev.github.io/preethi-snacks/)
 
-### 🎨 Durai Arts
+ 🎨 Durai Arts
 **My own portfolio website.** Designed and built from scratch to present my pencil portrait work.
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-f2c14e?style=flat-square) ![Design](https://img.shields.io/badge/Creative%20design-ff6b9d?style=flat-square) ![Brand](https://img.shields.io/badge/Personal%20brand-2dd4bf?style=flat-square)
@@ -81,7 +81,7 @@ Real websites built for real local businesses. Open them and try yourself.
 
 <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 
-## 🤝 How We Work Together
+ 🤝 How We Work Together
 
 </div>
 
@@ -94,7 +94,7 @@ Real websites built for real local businesses. Open them and try yourself.
 
 <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 
-## ⭐ Why Work With Me
+ ⭐ Why Work With Me
 
 </div>
 
@@ -121,16 +121,16 @@ Real websites built for real local businesses. Open them and try yourself.
 
 <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 
-## 🎨 Beyond Code
+🎨 Beyond Code
 
 I am also a **pencil portrait artist** and a **National Level Art Contest winner** (Season 18, consolation prize).
 See my work on [Instagram @tn58_art_journey](https://www.instagram.com/tn58_art_journey/) and in my [art portfolio](https://duraiartist-dev.github.io/DURAI_ARTS/).
 
 <img src="./assets/divider.svg" width="100%" height="6" alt="" />
 
-## 📩 Let's Build Your Website
+ 📩 Let's Build Your Website
 
-### Have a business that needs to be online? Let's talk.
+ Have a business that needs to be online? Let's talk.
 
 <!--
 Uncomment and edit these lines after adding your own details:
