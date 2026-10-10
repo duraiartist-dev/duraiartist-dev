@@ -1,128 +1,184 @@
-# 👋 Hi, I'm Durai
+<div align="center">
 
-### 💻 Web Developer | 🎨 Pencil Portrait Artist
+<img src="./assets/header.svg" alt="Durai - Web Developer for Local Businesses" width="100%" />
 
-**Building practical digital experiences for local businesses | Madurai, Tamil Nadu, India**
+<br />
 
-<p align="center">
-  <img src="./assets/durai-profile.jpg" alt="Durai - Web Developer and Pencil Portrait Artist" width="180" />
-</p>
+<img src="./assets/typing.svg" alt="Websites that bring local businesses online" />
 
-<p align="center">
-  <strong>From ideas to websites. From pencils to portraits.</strong>
-  <br />
-  I build responsive websites and ordering systems for local businesses, while creating hyperrealistic pencil portraits that capture detail and emotion.
-</p>
+<br />
 
-<p align="center">
-  <a href="https://duraiartist-dev.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-c79a3b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio" />
-  </a>
-  <a href="https://github.com/duraiartist-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
+<img src="https://img.shields.io/badge/Status-Available%20for%20new%20projects-2ea043?style=for-the-badge" alt="Available for new projects" />
 
----
+</div>
 
-## 🚀 About Me
+<br />
 
-I'm Durai, a growing web developer and traditional pencil portrait artist from Madurai, Tamil Nadu.
+<table>
+<tr>
+<td width="240" align="center" valign="middle">
+  <img src="./assets/durai-profile.png" alt="Durai, web developer in Madurai" width="200" />
+</td>
+<td valign="middle">
 
-I enjoy building websites that solve real problems for local businesses — from showcasing services and products to simplifying customer orders and business management.
+### Hi, I'm Durai
 
-I also create hyperrealistic pencil portraits, combining patience, observation, and attention to detail.
+I build **websites and ordering systems for local businesses** in Madurai and across Tamil Nadu.
 
-* 💻 Building websites and business-focused web applications.
-* 🛍️ Exploring customer ordering flows and owner dashboards.
-* 🎨 Creating hyperrealistic pencil portraits.
-* 🌱 Continuously learning web development, programming, and debugging.
-* 🎯 Goal: Build useful digital products for real-world businesses.
+If you run a shop, a salon, a food business or a small service and want customers to **find you, order from you and book you online**, that is exactly what I build. Every site is mobile friendly, fast, and comes with a simple **owner dashboard** so you can manage things without any technical knowledge.
 
-**My philosophy:** Learn by building, improve through practice, and make technology useful for everyone.
+I also communicate in **Tamil and English**, so you can explain your business in the language you are most comfortable with.
 
----
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack & Tools
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
+<a href="https://duraiartist-dev.github.io/snehas-makeover/"><img src="https://img.shields.io/badge/See%20Live%20Projects-c79a3b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="See live projects" /></a>
+<a href="https://github.com/duraiartist-dev"><img src="https://img.shields.io/badge/GitHub-duraiartist--dev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.instagram.com/tn58_art_journey/"><img src="https://img.shields.io/badge/Instagram-tn58__art__journey-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
-</p>
+</div>
 
 ---
 
-## 🌐 Featured Projects
+## What I Build For You
 
-### 1. 💄 Sneha's Makeover
-
-A website for a bridal makeup business, featuring service presentation, appointment booking, and an owner dashboard.
-
-**Focus:** Business website · Booking flow · Owner management
-
-[🔗 View Live Website](https://duraiartist-dev.github.io/snehas-makeover/)
-
-### 2. 🎆 Sri Sivamurugan Crackers
-
-A customer-facing product ordering website designed to simplify browsing and order management.
-
-**Focus:** Product catalog · Customer ordering · Owner dashboard
-
-[🔗 View Live Website](https://duraiartist-dev.github.io/sivamurugan-crackers/)
-
-### 3. 🍿 Preethi Snacks
-
-A snack business website with product browsing and ordering and management features.
-
-**Focus:** Product display · Ordering workflow · Business management
-
-[🔗 View Live Website](https://duraiartist-dev.github.io/preethi-snacks/)
-
-### 4. 🎨 Durai Arts
-
-My personal art portfolio showcasing my passion for hyperrealistic pencil portraits.
-
-**Focus:** Art portfolio · Creative presentation · Personal brand
-
-[🔗 View Art Portfolio](https://duraiartist-dev.github.io/DURAI_ARTS/)
+| | Service | What you get |
+|---|---|---|
+| 🌐 | **Business Website** | A clean, professional site that shows your products, services, prices and location |
+| 🛒 | **Online Ordering System** | Customers browse, add to cart and place orders. Orders reach you directly |
+| 📅 | **Booking Website** | Customers pick a service and book an appointment online |
+| 📊 | **Owner Dashboard** | See and manage orders or bookings in one place, no coding needed |
+| 🚀 | **Hosting & Launch** | I deploy your site live on the internet so you can share the link right away |
+| 📱 | **Mobile First Design** | Most customers visit from their phone, so every site is built for small screens first |
 
 ---
 
-## 🎨 Beyond Code — Durai Arts
+## Live Projects
 
-Art is another important part of my creative journey.
+Real websites built for real local businesses. Open them and try them yourself.
 
-I specialize in hyperrealistic pencil portraits, focusing on fine details, realistic shading, and capturing human expressions.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Mediums:** Graphite pencil · Color pencil · Charcoal
+### 💄 Sneha's Makeover
+**Bridal makeup booking website**
 
-📸 Follow my art journey: **[@tn58_art_journey](https://www.instagram.com/tn58_art_journey/)**
+Service showcase, appointment booking and an owner dashboard.
+
+`Booking flow` `Owner dashboard` `Mobile first`
+
+[**View Live Website →**](https://duraiartist-dev.github.io/snehas-makeover/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎆 Sri Sivamurugan Crackers
+**Product catalogue and ordering website**
+
+Customers browse the full catalogue and place orders. The owner manages them.
+
+`Product catalogue` `Customer orders` `Owner dashboard`
+
+[**View Live Website →**](https://duraiartist-dev.github.io/sivamurugan-crackers/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍿 Preethi Snacks
+**Snack business ordering website**
+
+Product browsing, ordering and business management features.
+
+`Product display` `Ordering workflow` `Management`
+
+[**View Live Website →**](https://duraiartist-dev.github.io/preethi-snacks/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Durai Arts
+**My own portfolio website**
+
+Designed and built from scratch to present my pencil portrait work.
+
+`Portfolio` `Creative design` `Personal brand`
+
+[**View Live Website →**](https://duraiartist-dev.github.io/DURAI_ARTS/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🤝 Let's Connect
+## How We Work Together
 
-Have a local business and need a website to showcase your services, products, or ordering process? I'd love to connect.
+<div align="center">
 
-* 💻 **GitHub:** [@duraiartist-dev](https://github.com/duraiartist-dev)
-* 🎨 **Instagram:** [@tn58_art_journey](https://www.instagram.com/tn58_art_journey/)
-* 🌐 **Projects:** Explore the live websites listed above.
+| 1️⃣ Discuss | 2️⃣ Design | 3️⃣ Build | 4️⃣ Launch |
+|:---:|:---:|:---:|:---:|
+| You tell me about your business and what you need | I plan the pages and show you the look | I build the site and you review it with me | I put it live and make sure it works |
 
-I'm open to learning opportunities, creative collaborations, and conversations about web development and art.
+</div>
 
 ---
 
-<p align="center">
-  <strong>Thanks for visiting my profile! 🙌</strong>
-  <br />
-  <em>Building with code. Creating with pencils. Learning every day.</em>
-</p>
+## Why Work With Me
+
+- **Practical, not complicated.** I build what your business actually needs, nothing extra.
+- **Real projects you can open.** My work is live, so you can judge it before you decide.
+- **Attention to detail.** As a pencil portrait artist, I am used to patient, careful work. The same care goes into every page I build.
+- **Easy communication.** Tamil or English, simple language, regular updates.
+- **I keep learning.** Currently deepening my Python and software skills to build smarter tools for businesses.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<br />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+
+</div>
+
+---
+
+## Beyond Code
+
+Outside of web development, I am a **pencil portrait artist** and a **National Level Art Contest winner** (Season 18, consolation prize). See my art on [Instagram @tn58_art_journey](https://www.instagram.com/tn58_art_journey/) and in my [art portfolio](https://duraiartist-dev.github.io/DURAI_ARTS/).
+
+---
+
+## Let's Build Your Website
+
+<div align="center">
+
+### Have a business that needs to be online? Let's talk.
+
+<!--
+Uncomment and edit these lines after adding your own details:
+<a href="https://wa.me/91XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-Chat%20With%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+-->
+
+<a href="https://www.instagram.com/tn58_art_journey/"><img src="https://img.shields.io/badge/Message%20Me%20On%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Message on Instagram" /></a>
+
+<br /><br />
+
+*Madurai, Tamil Nadu, India*
+
+</div>
